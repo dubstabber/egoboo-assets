@@ -103,20 +103,20 @@ unknown:   NONE    49  18.5   19.5   0.0   N    0   0  0   0   0   F   F   N
     Sword:   NONE    50  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
     KiteShield:   NONE    78  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
  
-tower:   NONE    57  12.5   19.5   0.0   N    0   0  0   0   0   F   F   N
+blacktower:   NONE    57  12.5   19.5   0.0   N    0   0  0   0   0   F   F   N
   Missile:   NONE    73  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
-tower:   NONE    57  19.5   19.5   0.0   N    0   0  0   0   0   F   F   N
+blacktower:   NONE    57  19.5   19.5   0.0   N    0   0  0   0   0   F   F   N
   Missile:   NONE    73  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
 
-bishop:   NONE    62  14.5   19.5   0.0   N    0   0  0   0   0   F   F   N
+blackbishop:   NONE    62  14.5   19.5   0.0   N    0   0  0   0   0   F   F   N
   XBow:   NONE    71  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
-bishop:   NONE    62  17.5   19.5   0.0   N    0   0  0   0   0   F   F   N
+blackbishop:   NONE    62  17.5   19.5   0.0   N    0   0  0   0   0   F   F   N
   XBow:   NONE    71  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
 
-queen:   NONE    80  16.5   19.5   0.0   N    0   0  0   0   0   F   F   N
+blackqueen:   NONE    80  16.5   19.5   0.0   N    0   0  0   0   0   F   F   N
  SpkMace:   NONE    46  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
 
-KING:   NONE    81  15.5   19.5   0.0   N    0   0  0   6   0   F   F   E
+blackking:   NONE    81  15.5   19.5   0.0   N    0   0  0   6   0   F   F   E
  battleward:   NONE    111  0.0   0.0   0.0   L    0   0  0   0   0   F   F   N
  shock:   NONE    109  0.0   0.0   0.0   R    0   0  0   0   0   F   F   N
 
@@ -148,26 +148,26 @@ unknown:   NONE    45  13.5   12.5   1.0   S    0   0  0   0   0   F   F   N
   Sword:   NONE    50  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
   KiteShield:   NONE    78  0.0   0.0   0.0   I    0   1  0   0   0   F   F   N
  
-tower:   NONE    58  12.5   12.5   0.0   S    0   0  0   0   0   F   F   G
+whitetower:   NONE    58  12.5   12.5   0.0   S    0   0  0   0   0   F   F   G
   Missile:   NONE    73  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
-tower:   NONE    58  19.5   12.5   0.0   S    0   0  0   0   0   F   F   G
+whitetower:   NONE    58  19.5   12.5   0.0   S    0   0  0   0   0   F   F   G
   Missile:   NONE    73  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
   
-bishop:   NONE    60  14.5   12.5   0.0   S    0   0  0   0   0   F   F   N
+whitebishop:   NONE    60  14.5   12.5   0.0   S    0   0  0   0   0   F   F   N
   LBow:   NONE    61  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
-bishop:   NONE    60  17.5   12.5   0.0   S    0   0  0   0   0   F   F   N
+whitebishop:   NONE    60  17.5   12.5   0.0   S    0   0  0   0   0   F   F   N
   LBow:   NONE    61  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
 
-queen:   NONE    79  16.5   12.5   0.0   S    0   0  0   0   0   F   F   N
+whitequeen:   NONE    79  16.5   12.5   0.0   S    0   0  0   0   0   F   F   N
   SpkMace:   NONE    46  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
 
 
 //Chime puzzle room
-chime1:   NONE    83  34.0   12.5   0.0   ?    0   0  0   0   0   F   F   E
-chime2:   NONE    83  30.0   12.5   0.0   ?    0   1  0   0   0   F   F   E
-chime3:   NONE    83  30.0   19.5   0.0   ?    0   2  0   0   0   F   F   E
-chime4:   NONE    83  34.0   19.5   0.0   ?    0   3  0   0   0   F   F   E
-chimepuzl:NONE    89  34.0   19.5   0.0   N    0   0  10   0   0   F   F   E
+chime:   NONE    83  34.0   12.5   0.0   ?    0   0  0   0   0   F   F   E
+chime:   NONE    83  30.0   12.5   0.0   ?    0   1  0   0   0   F   F   E
+chime:   NONE    83  30.0   19.5   0.0   ?    0   2  0   0   0   F   F   E
+chime:   NONE    83  34.0   19.5   0.0   ?    0   3  0   0   0   F   F   E
+chimepuzzle:NONE    89  34.0   19.5   0.0   N    0   0  10   0   0   F   F   E
  
 //Mirror room
 minotore:   NONE    92  51.0   16.0   0.0   W    0   0  12   0   0   F   F   E
@@ -190,7 +190,7 @@ toast:   NONE    101  50.0   34.0   0.0   ?    0   0  0   0   0   F   F   N
 toast:   NONE    101  51.0   32.0   0.0   ?    0   0  0   0   0   F   F   N
 
 //combat challenge
-Viking:   NONE    102  47.0   48.0   0.0   N    0   0  16   0   0   F   F   E
+vikingchallenge:   NONE    102  47.0   48.0   0.0   N    0   0  16   0   0   F   F   E
   Sword:   NONE    50  0.0   0.0   0.0   R    0   0  0   0   0   F   F   N
   knife:   NONE    103  0.0   0.0   0.0   L    0   0  0   10   0   F   F   N
 body:   NONE    104  51.5   51.5   0.0   ?    0   0  0   0   0   F   F   N

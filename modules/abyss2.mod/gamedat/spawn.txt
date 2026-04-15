@@ -250,7 +250,7 @@ mephit:   NONE    40  34.0   92.0   1.0   N    0   3  0   0   0   F   F   E
 
 
 //Prison cell of the betrayer
-betrayer:   NONE    64  36.0   112.0   1.0   N    59   0  0   0   0   F   F   X
+thebetrayer:   NONE    64  36.0   112.0   1.0   N    59   0  0   0   0   F   F   X
   elemental:   NONE    66  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
   teleport:   NONE    65  0.0   0.0   0.0   L    0   0  0   0   0   F   F   N
   MagicCage:   NONE    73  0.0   0.0   0.0   R   0   0  0   0   0   F   F   X
@@ -318,7 +318,7 @@ deadfall:   NONE    52  84.0   75.0   1.0   N    0   0  20   0   0   F   F   E
 toast:   NONE    49  86.0   75.0   1.0   N    0   0  0   0   0   F   F   E
 deadfall:   NONE    52  81.0   75.0   1.0   N    0   0  21   0   0   F   F   E
 KurseTrap:   NONE    91  78.0   75.0   1.0   N    0   0  22   0   0   F   F   E
-arrowtrap2:   NONE    53  75.0   75.0   1.0   N    0   0  23   0   0   F   F   N
+arrowtrap:   NONE    53  75.0   75.0   1.0   N    0   0  23   0   0   F   F   N
 mushroom:  NONE    98  67.0    78.25   0.5   W    0   0  0   0   0   F   F   N
 eyeball:   NONE    37  80.0   73.0   1.0   N    0   0  0   0   0   F   F   E
 
