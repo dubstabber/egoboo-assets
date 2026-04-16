@@ -102,10 +102,10 @@ Brazier:   NONE     36    29.0 6.5  0.0  W   0   0   20  2   0   F   F   N
 Brazier:   NONE     36    43.5 41.5 0.0  N  20   0   20  0   0   F   F   N
 
 
-DrainButt: NONE     72    13.0 23.0 0.0  S   0   0   0   0   0   F   F   N
-DrainButt: NONE     72    41.0 9.0  0.0  N   0   0   0   0   0   F   F   N
-FillButt:  NONE     73    27.0 9.0  0.0  E   0   0   0   0   0   F   F   N
-FillButt:  NONE     73    41.0 23.0 0.0  W   0   0   0   0   0   F   F   N
+dbutton:   NONE     72    13.0 23.0 0.0  S   0   0   0   0   0   F   F   N
+dbutton:   NONE     72    41.0 9.0  0.0  N   0   0   0   0   0   F   F   N
+fbutton:   NONE     73    27.0 9.0  0.0  E   0   0   0   0   0   F   F   N
+fbutton:   NONE     73    41.0 23.0 0.0  W   0   0   0   0   0   F   F   N
 
 
 Squidgie:  NONE     37    38.5 35.5 0.0  S   0   0   0   0   0   F   F   E
@@ -164,7 +164,7 @@ trigdoor:   NONE     57    33   53   0    E   0   0   19  0   0   F   F   N
 trigdoor:   NONE     57    41   45   0    N   0   0   20  0   0   F   F   N
 
 
-MusicInit: NONE     126   9.0  9.0  0.0  S   0   0   0   0   0   F   F   N
+moduletool: NONE    126   9.0  9.0  0.0  S   0   0   0   0   0   F   F   N
 
 
 FillDrop:  NONE     67    13   35   0    S   0   0   23  37  0   F   F   E
@@ -173,11 +173,11 @@ GrubDrop:  NONE     69    53   23   0    S   0   0   25  39  0   F   F   B
 
 Torch:     NONE     47    41.5 8.5  0    E   0   0   0   0   0   F   F   N
 
-Wierd:     NONE     38    41   53   0.0  S   0   0   19  0   0   F   F   E
-MalFaerie: NONE     74    43   39   0.5  S   0   0   20  0   0   F   F   F
-FemFaerie: NONE     75    41   53   0.5  N   0   0   19  0   0   F   F   F
+bosswier:  NONE     38    41   53   0.0  S   0   0   19  0   0   F   F   E
+mfaerie:   NONE     74    43   39   0.5  S   0   0   20  0   0   F   F   F
+ffaerie:   NONE     75    41   53   0.5  N   0   0   19  0   0   F   F   F
 Spork:     NONE    119    27   53   0    S   0   0   0   0   0   F   F   N
 
 
-GnomeText: NONE    121    11.5 7.5  0.0  S   0   0   0   0   0   F   F   N
+bossplat:  NONE    121    11.5 7.5  0.0  S   0   0   0   0   0   F   F   N
 Strider:   NONE    40  13.0   56.5   0.0   N    2   0  0   0   0   F   F   N
