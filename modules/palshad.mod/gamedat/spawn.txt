@@ -26,17 +26,17 @@
 #dependency DSword 49
 
 //         Name      Slot Xpos Ypos Zpos Dir Mon Skn Pas Con Lvl Stt Gho Team
-Darkie:    NONE     51    25.5 7.0  0.0  N   0   0   19  0   0   F   F   D
+BossDark:  NONE     51    25.5 7.0  0.0  N   0   0   19  0   0   F   F   D
   Cinquedea:    NONE     52    0    0    0    L   0   0   0   0   0   F   F   N
   Sword:   NONE     50    0    0    0    R   0   0   0   0   0   F   F   N
-Darkie:    NONE     51    27.5 7.0  0.0  N   0   0   19  0   0   F   F   D
+BossDark:  NONE     51    27.5 7.0  0.0  N   0   0   19  0   0   F   F   D
   Sword:   NONE     50    0    0    0    L   0   0   0   0   0   F   F   N
-Darkie:    NONE     51    29.5 7.0  0.0  N   0   0   19  0   0   F   F   D
+BossDark:  NONE     51    29.5 7.0  0.0  N   0   0   19  0   0   F   F   D
   Sword:   NONE     50    0    0    0    R   0   0   0   0   0   F   F   N
-Darkie:    NONE     51    31.5 7.0  0.0  N   0   0   19  0   0   F   F   D
+BossDark:  NONE     51    31.5 7.0  0.0  N   0   0   19  0   0   F   F   D
   Sword:   NONE     50    0    0    0    R   0   0   0   0   0   F   F   N
   Sword:   NONE     50    0    0    0    L   0   0   0   0   0   F   F   N
-Darkie:    NONE     51    33.5 7.0  0.0  N   0   0   19  0   0   F   F   D
+BossDark:  NONE     51    33.5 7.0  0.0  N   0   0   19  0   0   F   F   D
   Sword:   NONE     50    0    0    0    R   0   0   0   0   0   F   F   N
 
 
@@ -95,12 +95,12 @@ Chest:     NONE     43    19   35   0.0  S   0   0   0   0   0   F   F   N
 Chest: NONE     43    45   35   0.0  S   0   0   0   0   0   F   F   N
   %RANDOM_ARMOR:   	NONE    -1  0.0   0.0   0.0   I    0   4  0   0   0   F   F   N
   %POISONED_WEAPON: NONE    -1  0.0   0.0   0.0   I    0   0  0   0   0   F   F   N
-GasChest:  NONE     42    35   47   0.0  N   0   0   0   1   0   F   F   N
+PChest:    NONE     42    35   47   0.0  N   0   0   0   1   0   F   F   N
   PPotion: NONE     57     0    0     0  I   0   0   0   0   0   F   F   N
   Scythe:  NONE     94     0    0     0  I   0   0   0   0   0   F   F   N
   %NORMAL_TREASURE: NONE     -1     0    0     0  I   0   0   0   0   0   F   F   N
-GasChest:  NONE     42    37   47   0.0  N   199 0   0   0   0   F   F   N
-GasChest:  NONE     42    39   47   0.0  N   0   0   0   1   0   F   F   N
+PChest:    NONE     42    37   47   0.0  N   199 0   0   0   0   F   F   N
+PChest:    NONE     42    39   47   0.0  N   0   0   0   1   0   F   F   N
   KeyA:    NONE     93     0    0     0  I   0   0   0   0   0   F   F   N
 
 
@@ -125,7 +125,7 @@ Chest:     NONE     41    41.0 10.5 0.0  S   0   0   0   16   0   F   F   N
 
 
 
-TileMimic: NONE     122   45   34     0  N   0   0   17  0   0   F   F   E
+TrigTile:  NONE     122   45   34     0  N   0   0   17  0   0   F   F   E
 
 
 Blob:      NONE     91    29.5 33.5 0.0  N   0   0   0   0   0   F   F   E
@@ -208,5 +208,3 @@ Hero 27:   NONE     27    19.5 55.5 0.0  N   0   0   0   0   0   T   F   G
   Hero 33: NONE     33    0    0    0    I   0   0   0   0   0   F   F   N
   Hero 34: NONE     34    0    0    0    I   0   0   0   0   0   F   F   N
   Hero 35: NONE     35    0    0    0    I   0   0   0   0   0   F   F   N
-
-
